@@ -5,7 +5,7 @@ set result=%Errorlevel%
 echo result
 echo %result%
 
-IF /I "%result%" NEQ "0" (
+IF /I "%result%" NEQ "1" (
     ECHO execution failed
 )
 
