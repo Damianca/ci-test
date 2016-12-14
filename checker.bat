@@ -11,4 +11,5 @@ IF /I "%result%" NEQ "1" (
 	EXIT /B 1
 ) ELSE (
 	ECHO TEST PASSED
+	EXIT /B 0
 )
