@@ -1,1 +1,2 @@
 This file will content regular text, NO SPECIAL CHAR
+Please do not add special symbols
