@@ -5,3 +5,4 @@ bye
 OK
 yes
 Please
+End of time
