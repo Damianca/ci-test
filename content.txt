@@ -30,6 +30,10 @@ Linea 12
 Linea 13
 Linea 14
 Linea 15
+<<<<<<< HEAD
 Linea 16
 Linea 17
 Linea 18
+=======
+Linea 16
+>>>>>>> 8a1e7167efb7eef0f2ce66992b8bf17268f5bf0c
