@@ -28,11 +28,5 @@ Linea 10
 Linea 11
 Linea 12
 Linea 13
-Linea ZZ4
-Linea 15 
-Linea 16 
-Linea 17
-Linea 18
-Linea 19 fy
-Linea 20 fy
-Linea 21 !@+*#$
+Linea 14
+@#$%
