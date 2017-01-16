@@ -40,3 +40,6 @@ Linea 18
 Linea 16
 Linea 23
 Linea 24
+#$
+%
+
