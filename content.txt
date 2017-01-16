@@ -1,0 +1,45 @@
+Configuration management (CM) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
+
+The CM process is widely used by military engineering organizations to manage changes throughout the system lifecycle of complex systems, such as weapon systems, military vehicles, and information systems. Outside the military, the CM process is also used with IT service management as defined by ITIL, and with other domain models in the civil engineering and other industrial engineering segments such as roads, bridges, canals, dams, and buildings.
+
+Please answer these questions:
+
+1. What is (Software) Configuration Management (CM or SCM)?
+2. How does Problem Management relate to Configuration Management?
+3. What Configuration Management tools are available?
+4. What Problem Tracking tools are available?
+5. Where else can I look for configuration management information?
+6. How should a CM system relate to process enforcement?
+7. What is the "best" CM tool to use?
+8. How should I version control my Web site?
+9. What is the history of Revison Control and Configuration Management?
+10. What are the benefits of SCM?
+
+Linea1
+Linea2
+Linea3
+Linea4
+Linea5
+Linea6
+Linea7
+Linea8
+Linea 9
+Linea 10
+Linea 11
+Linea 12
+Linea 13
+Linea 14
+Linea 15
+<<<<<<< HEAD
+Linea 16
+Linea 16
+Linea 17
+Linea 18
+Linea 16
+Linea 17
+Linea 18
+Linea 16
+&$%&%$
+=======
+Rompo con @#$%@#$%
+>>>>>>> e7bd68d486604e3259bacacd4b2d3e119ef892ac
